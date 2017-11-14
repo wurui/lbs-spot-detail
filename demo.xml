@@ -14,37 +14,20 @@
         <icon>//oxm1.cc/img/app_default.png</icon>
     </p>
     <data>
-            <lbs-spot>
-        <name>
-            powerful wallet
-        </name>
-        <location>
-            nice notebook
-        </location>
-        <score>
-            0.58
-        </score>
-        <description>
-            powerful car
-        </description>
-        <shop_hours>
-            screen
-        </shop_hours>
-        <traffic>
-            notebook
-        </traffic>
-        <type>
-            mobilephone
-        </type>
-        <comment_count>
-            tough notebook
-        </comment_count>
-        <img>
-            screen
-        </img>
-        <img_count>
-            strong laptop
-        </img_count>
-    </lbs-spot>
+        <lbs-spot>
+            <name>河坊街</name>
+            <location>杭州市上城区河坊街</location>
+            <score>4.4</score>
+            <description>
+                清河坊自古就是杭州的繁华地段，如今仍是当地人气最旺的商业街之一。这里的商铺是统一的仿古风格，各种特色小吃、特产店、老字号琳琅满目，到了晚上更是游人如织。
+                整个清河坊街区并不算在，却聚焦了众多百年老店，如王星记扇子、张小泉剪刀、方回春堂、羊汤饭店等等，都是大名鼎鼎鼎的老字号。虽然价格略贵，但质量一般都不错，做旅行纪念品是不错的选择。若是遇到卖定胜糕、龙须糖等当地小吃的店铺，不妨买来尝尝鲜。
+            </description>
+            <shop_hours>全天开放</shop_hours>
+            <traffic>乘地铁1号线到定安路，步行约600米即是。或乘公交车在清河坊站或吴山公站下车，再步行前往。</traffic>
+            <type>街区&amp;集市</type>
+            <comment_count>2292</comment_count>
+            <img>http://i.oxm1.cc/uploads/git/wurui/img/2a9d3oyonTj9z9cn15RcyahA8q40-750.jpg</img>
+            <img_count>612</img_count>
+        </lbs-spot>
     </data>
 </root>
