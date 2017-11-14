@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="demo.xsl"?>
+<root>
+    <env>
+        <domain>local</domain>
+    </env>
+    <login>
+        <uid>git/wurui</uid>
+    </login>
+    <p>
+        <title>demo page</title>
+        <desc>this is deme page</desc>
+        <owner>openxsl</owner>
+        <icon>//oxm1.cc/img/app_default.png</icon>
+    </p>
+    <data>
+            <lbs-spot>
+        <name>
+            powerful wallet
+        </name>
+        <location>
+            nice notebook
+        </location>
+        <score>
+            0.58
+        </score>
+        <description>
+            powerful car
+        </description>
+        <shop_hours>
+            screen
+        </shop_hours>
+        <traffic>
+            notebook
+        </traffic>
+        <type>
+            mobilephone
+        </type>
+        <comment_count>
+            tough notebook
+        </comment_count>
+        <img>
+            screen
+        </img>
+        <img_count>
+            strong laptop
+        </img_count>
+    </lbs-spot>
+    </data>
+</root>
